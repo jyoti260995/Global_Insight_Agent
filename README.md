@@ -1,3 +1,5 @@
+<img width="1440" height="900" alt="Screenshot 2026-06-03 at 12 11 47 PM" src="https://github.com/user-attachments/assets/56791451-04b1-438f-a8f6-e76d41e91542" />
+
 # 🌍 GlobalInsight Agent
 
 > Real-time weather & local news for any location on Earth — powered by LangChain, Mistral AI, and GNews.
